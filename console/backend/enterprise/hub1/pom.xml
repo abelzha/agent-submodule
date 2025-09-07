@@ -6,7 +6,8 @@
         <groupId>com.iflytek</groupId>
         <artifactId>stellar-console</artifactId>
         <version>0.0.1</version>
-        <relativePath>../pom.xml</relativePath>
+        <relativePath/> <!-- lookup parent from repository -->
+<!--        <relativePath>../pom.xml</relativePath>-->
     </parent>
     <groupId>com.xfyun.stellar-console</groupId>
     <artifactId>hub1</artifactId>
